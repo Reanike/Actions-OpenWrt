@@ -19,4 +19,4 @@
 #git clone https://github.com/linkease/istore.git
 #git clone https://github.com/animegasan/luci-app-quickstart.git
 #git clone https://github.com/sirpdboy/luci-app-cupsd.git
-git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
+git clone https://github.com/kenzok8/small-package.git package/small-packages
