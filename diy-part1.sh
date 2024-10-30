@@ -15,8 +15,8 @@
 
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
-echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
-echo 'src-git istore https://github.com/linkease/istore;main' >> feeds.conf.default
-echo "src-git cups https://github.com/sirpdboy/luci-app-cupsd.git" >> feeds.conf.default
+#echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+#echo 'src-git istore https://github.com/linkease/istore;main' >> feeds.conf.default
+#echo "src-git cups https://github.com/sirpdboy/luci-app-cupsd.git" >> feeds.conf.default
 #git clone https://github.com/kenzok8/small-package.git package/small-package
 git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
